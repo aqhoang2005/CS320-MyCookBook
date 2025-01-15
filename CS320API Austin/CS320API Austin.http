@@ -1,0 +1,6 @@
+@CS320API_Austin_HostAddress = http://localhost:5272
+
+GET {{CS320API_Austin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CS320API_Austin.Controllers.RecipeController",
+    "Method": "GetRecipe",
+    "RelativePath": "Recipe",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
