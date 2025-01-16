@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS320")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3c65d923b3154fcc63fef59299c889419803188")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS320")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS320")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

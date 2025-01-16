@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\austi\\source\\repos\\CS320\\CS320\\CS320.csproj",
-      "projectName": "CS320",
-      "projectPath": "C:\\Users\\austi\\source\\repos\\CS320\\CS320\\CS320.csproj",
+      "projectUniqueName": "C:\\Users\\austi\\source\\repos\\CS320\\CS320\\CS320MyCookBookApp.csproj",
+      "projectName": "CS320MyCookBookApp",
+      "projectPath": "C:\\Users\\austi\\source\\repos\\CS320\\CS320\\CS320MyCookBookApp.csproj",
       "packagesPath": "C:\\Users\\austi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\austi\\source\\repos\\CS320\\CS320\\obj\\",
       "projectStyle": "PackageReference",

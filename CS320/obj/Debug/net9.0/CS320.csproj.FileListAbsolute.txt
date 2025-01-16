@@ -96,3 +96,4 @@ C:\Users\austi\source\repos\CS320\CS320\obj\Debug\net9.0\refint\CS320.dll
 C:\Users\austi\source\repos\CS320\CS320\obj\Debug\net9.0\CS320.pdb
 C:\Users\austi\source\repos\CS320\CS320\obj\Debug\net9.0\CS320.genruntimeconfig.cache
 C:\Users\austi\source\repos\CS320\CS320\obj\Debug\net9.0\ref\CS320.dll
+C:\Users\austi\source\repos\CS320\CS320\obj\Debug\net9.0\CS320.sourcelink.json

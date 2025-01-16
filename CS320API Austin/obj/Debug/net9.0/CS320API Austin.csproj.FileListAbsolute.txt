@@ -31,3 +31,5 @@ C:\Users\austi\source\repos\CS320\CS320API Austin\obj\Debug\net9.0\refint\CS320A
 C:\Users\austi\source\repos\CS320\CS320API Austin\obj\Debug\net9.0\CS320API Austin.pdb
 C:\Users\austi\source\repos\CS320\CS320API Austin\obj\Debug\net9.0\CS320API Austin.genruntimeconfig.cache
 C:\Users\austi\source\repos\CS320\CS320API Austin\obj\Debug\net9.0\ref\CS320API Austin.dll
+C:\Users\austi\source\repos\CS320\CS320API Austin\obj\Debug\net9.0\CS320API Austin.sourcelink.json
+C:\Users\austi\source\repos\CS320\CS320API Austin\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

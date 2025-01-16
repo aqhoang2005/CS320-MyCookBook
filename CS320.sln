@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS320", "CS320\CS320.csproj", "{5F274512-8DB5-4086-B8D7-A3D0819FDC2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS320MyCookBookApp", "CS320\CS320MyCookBookApp.csproj", "{5F274512-8DB5-4086-B8D7-A3D0819FDC2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS320API Austin", "CS320API Austin\CS320API Austin.csproj", "{288861C0-907F-475C-A786-E6EE231E7BBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS320MyCookBookAPI", "CS320API Austin\CS320MyCookBookAPI.csproj", "{288861C0-907F-475C-A786-E6EE231E7BBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

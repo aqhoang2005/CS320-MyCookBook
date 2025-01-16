@@ -2,7 +2,7 @@
   {
     "ContainingType": "CS320API_Austin.Controllers.RecipeController",
     "Method": "GetRecipe",
-    "RelativePath": "Recipe",
+    "RelativePath": "api/recipe",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
